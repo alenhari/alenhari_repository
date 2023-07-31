@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html lang="es-ES" class="yui3-js-enabled" id="yui_3_18_1_1_1690836389875_687"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>sin título</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <!--[if lt IE 9]><script src="/euf/core/static/html5.js"></script><![endif]-->
+        
+<style type="text/css">
+ <!-- 
+.rn_ScreenReaderOnly{position:absolute; height:1px; left:-10000px; overflow:hidden; top:auto; width:1px;}
+.rn_Hidden{display:none !important;}
+ --></style>
+<script type="text/javascript" async="" src="./sin título_files/recaptcha__es.js.download" crossorigin="anonymous" integrity="sha384-N4wXjROiKjt04AgJ+IS5OnkorQDxopg1j30AcN623FoJmFhKbU6nTwRy5NRYBaRA"></script><script charset="utf-8" id="yui_3_18_1_1_1690836389875_2" src="./sin título_files/overlay-min.js.download" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1690836389875_100" src="./sin título_files/gallery-treeview-min.js.download" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1690836389875_101" src="./sin título_files/treeview.js.download" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1690836389875_102" src="./sin título_files/treeviewdialog.js.download" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1690836389875_103" src="./sin título_files/treeviewdropdown.js.download" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1690836389875_104" src="./sin título_files/widget-child-min.js.download" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1690836389875_668" src="./sin título_files/anim-scroll-min.js.download" async=""></script><!--<base href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/">--><base href=".">
+<link href="./sin título_files/standard.themes.standard.SITE.css" rel="stylesheet" type="text/css" media="all">
+<style type="text/css">
+<!--
+-->
+</style>
+<link href="./sin título_files/ask_v2.themes.standard.css" rel="stylesheet" type="text/css" media="all">
+
+    <link rel="icon" href="https://dutyfree--tst1.custhelp.com/euf/assets/images/favicon.png" type="image/png">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body class="yui-skin-sam yui3-skin-sam" itemscope="" itemtype="http://schema.org/WebPage" id="yui_3_18_1_6_1690836389875_6"><div></div><p style="display:inline"><input type="hidden" id="rn_VirtualBufferUpdateTrigger" name="rn_VirtualBufferUpdateTrigger" value="1"></p>
+<div class="rn_Body" id="yui_3_18_1_1_1690836389875_686">
+    <div class="rn_MainColumn" role="main" id="yui_3_18_1_1_1690836389875_685">
+        <a id="rn_MainContent"></a>
+<div class="rn_PageContent rn_AskQuestion rn_Container" id="yui_3_18_1_1_1690836389875_684">
+    <form id="rn_QuestionSubmit" class="formPage" method="post" action="https://dutyfree--tst1.custhelp.com/ci/ajaxRequest/sendForm">
+        <div id="rn_ErrorLocation" class="rn_MessageBox rn_ErrorMessage"><h2 role="alert">Errores</h2><div data-field="Contact.Phones.MOBILE.Number" id="yui_3_18_1_1_1690836389875_715"><b id="yui_3_18_1_1_1690836389875_714"><a href="javascript:void(0);" onclick="document.getElementById(&quot;rn_Input_v2_3_Contact.Phones.MOBILE.Number&quot;).focus(); return false;" id="yui_3_18_1_1_1690836389875_713" role="alert">Teléfono de contacto es necesario</a></b></div><div data-field="Contact.Emails.PRIMARY.Address"><b><a href="javascript:void(0);" onclick="document.getElementById(&quot;rn_Input_v2_4_Contact.Emails.PRIMARY.Address&quot;).focus(); return false;">Dirección de correo electrónico es necesario</a></b></div><div data-field="Incident.Subject"><b><a href="javascript:void(0);" onclick="document.getElementById(&quot;rn_Input_v2_5_Incident.Subject&quot;).focus(); return false;">Asunto es necesario</a></b></div><div data-field="Incident.Product"><b><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" onclick="document.getElementById(&quot;rn_ProductCategoryInput_v2_7_Product_Button&quot;).focus(); return false;">Por favor, seleccione un motivo de consulta/reclamo - Seleccionar</a></b></div><div data-field="Incident.Category"><b><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" onclick="document.getElementById(&quot;rn_ProductCategoryInput_v2_8_Category_Button&quot;).focus(); return false;">Por favor, seleccione un detalle - Seleccionar</a></b></div><div data-field="Incident.Threads"><b><a href="javascript:void(0);" onclick="document.getElementById(&quot;rn_Input_v2_9_Incident.Threads&quot;).focus(); return false;">Mensaje es necesario</a></b></div></div>
+        <label class="rn_container_title">1. Ingresa tus datos </label>
+        <input type="text" name="Contact.Name.First" id="nombreField" initial_focus="true" placeholder="Ejemplo: Gilberto" maxlength="40">
+        <input type="text" name="Contact.Name.Last" id="apellidoField" placeholder="Ejemplo: Salamanca" maxlength="30">
+        <div id="rn_InputRUT_2" class="rn_InputRUT rn_TextInput rn_Input">
+    <div id="rn_InputRUT_2_LabelContainer">
+        <label for="rn_InputRUT_2_Contact.CustomFields.c.rut" id="rn_InputRUT_2_Label" class="rn_Label">
+        RUT                        <span class="rn_Required" aria-label="Necesario">
+    *</span>                            <span class="rn_ScreenReaderOnly">Pulse la flecha derecha y después la flecha abajo para acceder a la pista</span>
+                        </label>
+    </div>
+    <input type="text" id="rn_InputRUT_2_Contact.CustomFields.c.rut" name="Contact.CustomFields.c.rut" class="rn_Text" maxlength="10" required="" placeholder="Ejemplo: 12345678-9">
+    <div id="yui_3_18_1_1_1690836389875_23" class="yui3-widget yui3-overlay yui3-widget-positioned yui3-widget-stacked yui3-overlay-hidden" style="left: 85.5px; top: 399.5px; z-index: 1;"><div id="yui_3_18_1_1_1690836389875_25" class="yui3-overlay-content yui3-widget-stdmod"><div class="yui3-widget-bd"><div class="rn_MaskOverlay">Entrada esperada: #<span style="color:#E80000;">#</span>######<span style="color:#E80000;">-</span>@<br><b>Carácter 2</b> Escriba un número<br><b>Carácter 9</b> Esperando el carácter: ' - ' <br></div></div></div></div><div class="rn_Mask">Entrada esperada: ########-@</div></div>
+        <!-- <rn:widget path=
+        "custom/input/Input_v2" name="Contact.CustomFields.c.rut" always_show_mask="true" placeholder="Ejemplo: 12345678-9" required="true" label_input="RUT" label_error="Ingresar el Rut sin punto, con guión y el dígito verificador. Si el Rut es menor a 10 millones debe anteponer un 0" hide_hint="true" hint="" /> -->
+        <div id="rn_Input_v2_3" class="rn_Input_v2 rn_TextInput rn_Input">
+    <div id="rn_Input_v2_3_LabelContainer">
+        <label for="rn_Input_v2_3_Contact.Phones.MOBILE.Number" id="rn_Input_v2_3_Label" class="rn_Label rn_ErrorLabel">
+        Teléfono de contacto                        <span class="rn_Required" aria-label="Necesario">
+    *</span>                                </label>
+    </div>
+    <input type="text" id="rn_Input_v2_3_Contact.Phones.MOBILE.Number" name="Contact.Phones.MOBILE.Number" class="rn_Text rn_ErrorField" maxlength="9" required="" placeholder="Ingresa 9 dígitos">
+    </div>
+        <div id="rn_Input_v2_4" class="rn_Input_v2 rn_TextInput rn_Input">
+    <div id="rn_Input_v2_4_LabelContainer">
+        <label for="rn_Input_v2_4_Contact.Emails.PRIMARY.Address" id="rn_Input_v2_4_Label" class="rn_Label rn_ErrorLabel">
+        Dirección de correo electrónico                        <span class="rn_Required" aria-label="Necesario">
+    *</span>                                </label>
+    </div>
+    <input type="email" id="rn_Input_v2_4_Contact.Emails.PRIMARY.Address" name="Contact.Emails.PRIMARY.Address" class="rn_Email rn_ErrorField" maxlength="80" required="" placeholder="Ejemplo: rsalamanca@mail.com">
+    </div>
+        <br>
+        <label class="rn_container_title">2. Detalles de la solicitud </label>
+        <div id="rn_Input_v2_5" class="rn_Input_v2 rn_TextInput rn_Input">
+    <div id="rn_Input_v2_5_LabelContainer">
+        <label for="rn_Input_v2_5_Incident.Subject" id="rn_Input_v2_5_Label" class="rn_Label rn_ErrorLabel">
+        Asunto                        <span class="rn_Required" aria-label="Necesario">
+    *</span>                                </label>
+    </div>
+    <input type="text" id="rn_Input_v2_5_Incident.Subject" name="Incident.Subject" class="rn_Text rn_ErrorField" maxlength="30" required="" placeholder="Ingresa un título para tu solicitud">
+    </div>
+        <div id="rn_Input_v2_6" class="rn_Input_v2 rn_TextInput rn_Input">
+    <div id="rn_Input_v2_6_LabelContainer">
+        <label for="rn_Input_v2_6_Incident.CustomFields.c.ocs_numero_pedido" id="rn_Input_v2_6_Label" class="rn_Label">
+        Número de carro de compra                                </label>
+    </div>
+    <input type="text" id="rn_Input_v2_6_Incident.CustomFields.c.ocs_numero_pedido" name="Incident.CustomFields.c.ocs_numero_pedido" class="rn_Text" maxlength="255" placeholder="Ingresa el número de orden asociado">
+    </div>
+        <div id="rn_ProductCategoryInput_v2_7" class="rn_ProductCategoryInput_v2 rn_ProductCategoryInput rn_Input">
+    <a href="javascript:void(0);" class="rn_ScreenReaderOnly" id="rn_ProductCategoryInput_v2_7_LinksTrigger"><span id="rn_ProductCategoryInput_v2_7_TreeDescription"></span>&nbsp;Los usuarios del lector de pantalla pulsan Intro para seleccionar Motivo de Consulta/Reclamo.</a>
+    <span class="rn_Label" id="rn_ProductCategoryInput_v2_7_Label">
+        Motivo de Consulta/Reclamo                    <span id="rn_ProductCategoryInput_v2_7_RequiredLabel" class="rn_Required"> *</span>
+            <span id="rn_ProductCategoryInput_v2_7_ErrorLabel" class="rn_ErrorLabel">Seleccionar</span>
+            </span>
+    <button type="button" id="rn_ProductCategoryInput_v2_7_Product_Button" class="rn_DisplayButton rn_ErrorField"><span id="rn_ProductCategoryInput_v2_7_Button_Visible_Text">Seleccionar</span> <span class="rn_ScreenReaderOnly">Este botón no funciona con lectores de pantalla. Utilice el enlace anterior en su lugar.</span></button>
+    <div class="rn_ProductCategoryLinks rn_Hidden" id="rn_ProductCategoryInput_v2_7_Links"></div>
+    
+    <div id="yui_3_18_1_1_1690836389875_112" class="yui3-widget yui3-rightnowtreeviewdropdown yui3-rightnowtreeviewdropdown-hidden"></div><div id="yui_3_18_1_1_1690836389875_121" class="yui3-widget yui3-panel yui3-widget-positioned yui3-widget-modal yui3-widget-stacked yui3-panel-hidden" style="left: -0.5px; top: 72px; z-index: 1000;"><div id="rn_ProductCategoryInput_v2_7_TreeContainer" class="rn_PanelContainer yui3-rightnowtreeviewdropdown-content yui3-panel-content yui3-widget-stdmod"><div class="yui3-widget-hd"><span class="yui3-widget-buttons" id="yui_3_18_1_1_1690836389875_192"><button type="button" id="yui_3_18_1_1_1690836389875_126" class="yui3-button yui3-button-close">Close</button></span></div>
+        <div id="rn_ProductCategoryInput_v2_7_Tree" class="rn_Panel" role="group" style="overflow-y: auto; display: block;"><div class="ygtvitem" id="ygtv0" role="tree"><div class="ygtvchildren" id="ygtvc0" role="presentation"><div class="ygtvitem" id="ygtv1" role="presentation"><table id="ygtvtableel1" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt1" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel1" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel1" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="0" aria-level="1" aria-setsize="6" aria-posinset="1">Seleccionar</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc1" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv2" role="presentation"><table id="ygtvtableel2" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt2" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel2" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel2" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="6" aria-posinset="2">Despacho</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc2" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv3" role="presentation"><table id="ygtvtableel3" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt3" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel3" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel3" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="6" aria-posinset="3">Garantía Producto</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc3" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv4" role="presentation"><table id="ygtvtableel4" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt4" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel4" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel4" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="6" aria-posinset="4">Consulta de Pago</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc4" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv5" role="presentation"><table id="ygtvtableel5" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt5" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel5" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel5" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="6" aria-posinset="5">Giftcard</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc5" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv6" role="presentation"><table id="ygtvtableel6" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt6" class="ygtvcell ygtvln" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel6" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel6" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="6" aria-posinset="6">Ventas</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc6" style="display:none;" role="group"></div></div></div></div></div>
+        </div></div></div>
+        <div id="rn_ProductCategoryInput_v2_8" class="rn_ProductCategoryInput_v2 rn_ProductCategoryInput rn_Input">
+    <a href="javascript:void(0);" class="rn_ScreenReaderOnly" id="rn_ProductCategoryInput_v2_8_LinksTrigger"><span id="rn_ProductCategoryInput_v2_8_TreeDescription"></span>&nbsp;Los usuarios del lector de pantalla pulsan Intro para seleccionar Detalle.</a>
+    <span class="rn_Label" id="rn_ProductCategoryInput_v2_8_Label">
+        Detalle                    <span id="rn_ProductCategoryInput_v2_8_RequiredLabel" class="rn_Required"> *</span>
+            <span id="rn_ProductCategoryInput_v2_8_ErrorLabel" class="rn_ErrorLabel">Seleccionar</span>
+            </span>
+    <button type="button" id="rn_ProductCategoryInput_v2_8_Category_Button" class="rn_DisplayButton rn_ErrorField"><span id="rn_ProductCategoryInput_v2_8_Button_Visible_Text">Seleccionar</span> <span class="rn_ScreenReaderOnly">Este botón no funciona con lectores de pantalla. Utilice el enlace anterior en su lugar.</span></button>
+    <div class="rn_ProductCategoryLinks rn_Hidden" id="rn_ProductCategoryInput_v2_8_Links"></div>
+    
+    <div id="yui_3_18_1_1_1690836389875_327" class="yui3-widget yui3-rightnowtreeviewdropdown yui3-rightnowtreeviewdropdown-hidden"></div><div id="yui_3_18_1_1_1690836389875_334" class="yui3-widget yui3-panel yui3-widget-positioned yui3-widget-modal yui3-widget-stacked yui3-panel-hidden" style="left: -0.5px; top: 72px; z-index: 1000;"><div id="rn_ProductCategoryInput_v2_8_TreeContainer" class="rn_PanelContainer yui3-rightnowtreeviewdropdown-content yui3-panel-content yui3-widget-stdmod"><div class="yui3-widget-hd"><span class="yui3-widget-buttons" id="yui_3_18_1_1_1690836389875_400"><button type="button" id="yui_3_18_1_1_1690836389875_339" class="yui3-button yui3-button-close">Close</button></span></div>
+        <div id="rn_ProductCategoryInput_v2_8_Tree" class="rn_Panel" role="group" style="overflow-y: auto; display: block;"><div class="ygtvitem" id="ygtv7" role="tree"><div class="ygtvchildren" id="ygtvc7" role="presentation"><div class="ygtvitem" id="ygtv8" role="presentation"><table id="ygtvtableel8" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt8" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel8" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel8" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="0" aria-level="1" aria-setsize="22" aria-posinset="1">Seleccionar</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc8" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv9" role="presentation"><table id="ygtvtableel9" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt9" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel9" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel9" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="2">Despacho producto equivocado</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc9" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv10" role="presentation"><table id="ygtvtableel10" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt10" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel10" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel10" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="3">Despacho producto fuera de plazo</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc10" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv11" role="presentation"><table id="ygtvtableel11" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt11" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel11" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel11" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="4">Despacho producto mala condición</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc11" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv12" role="presentation"><table id="ygtvtableel12" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt12" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel12" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel12" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="5">Producto No Funciona</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc12" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv13" role="presentation"><table id="ygtvtableel13" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt13" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel13" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel13" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="6">Solicitud de Retracto</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc13" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv14" role="presentation"><table id="ygtvtableel14" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt14" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel14" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel14" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="7">Cobro erróneo en Tarjetas y/o  Dólares Premio</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc14" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv15" role="presentation"><table id="ygtvtableel15" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt15" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel15" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel15" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="8">Compra Duplicada</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc15" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv16" role="presentation"><table id="ygtvtableel16" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt16" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel16" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel16" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="9">Código pendiente</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc16" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv17" role="presentation"><table id="ygtvtableel17" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt17" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel17" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel17" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="10">Código utilizado</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc17" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv18" role="presentation"><table id="ygtvtableel18" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt18" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel18" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel18" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="11">Código sin saldo</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc18" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv19" role="presentation"><table id="ygtvtableel19" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt19" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel19" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel19" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="12">Código erróneo</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc19" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv20" role="presentation"><table id="ygtvtableel20" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt20" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel20" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel20" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="13">Ventas</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc20" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv21" role="presentation"><table id="ygtvtableel21" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt21" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel21" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel21" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="14">Boleta o Factura</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc21" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv22" role="presentation"><table id="ygtvtableel22" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt22" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel22" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel22" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="15">Despacho</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc22" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv23" role="presentation"><table id="ygtvtableel23" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt23" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel23" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel23" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="16">Programa Travel</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc23" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv24" role="presentation"><table id="ygtvtableel24" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt24" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel24" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel24" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="17">Garantía</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc24" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv25" role="presentation"><table id="ygtvtableel25" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt25" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel25" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel25" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="18">Giftcard</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc25" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv26" role="presentation"><table id="ygtvtableel26" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt26" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel26" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel26" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="19">Entel Visa</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc26" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv27" role="presentation"><table id="ygtvtableel27" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt27" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel27" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel27" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="20">Beneficio Mesa Gourmet</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc27" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv28" role="presentation"><table id="ygtvtableel28" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt28" class="ygtvcell ygtvtn" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel28" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel28" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="21">Códigos Cine</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc28" style="display:none;" role="group"></div></div><div class="ygtvitem" id="ygtv29" role="presentation"><table id="ygtvtableel29" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-collapsed ygtv-highlight0" role="presentation"><tbody role="presentation"><tr class="ygtvrow" role="presentation"><td id="ygtvt29" class="ygtvcell ygtvln" role="presentation"><a href="https://dutyfree--tst1.custhelp.com/euf/generated/optimized/1690835975/themes/standard/#" class="ygtvspacer" role="presentation" tabindex="-1">&nbsp;</a></td><td id="ygtvcontentel29" class="ygtvcell  ygtvcontent" role="presentation"><a id="ygtvlabelel29" class="ygtvlabel" href="javascript:void(0)" target="_self" role="treeitem" tabindex="-1" aria-level="1" aria-setsize="22" aria-posinset="22">Beneficio Travel Box</a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc29" style="display:none;" role="group"></div></div></div></div></div>
+        </div></div></div>
+        <div id="rn_Input_v2_9" class="rn_Input_v2 rn_TextInput rn_Input">
+    <div id="rn_Input_v2_9_LabelContainer">
+        <label for="rn_Input_v2_9_Incident.Threads" id="rn_Input_v2_9_Label" class="rn_Label rn_ErrorLabel">
+        Mensaje                        <span class="rn_Required" aria-label="Necesario">
+    *</span>                                </label>
+    </div>
+    <textarea id="rn_Input_v2_9_Incident.Threads" class="rn_TextArea rn_ErrorField" rows="7" cols="60" name="Incident.Threads" maxlength="1048576" required="" placeholder="Escribe un mensaje"></textarea>
+</div>
+<script>
+    window.addEventListener("load", function (event) {
+        // Adiciona o evento "blur" (mudança de foco) ao campo "Nombre"
+        var nombreInput = document.getElementById("nombreField");
+        nombreInput.addEventListener("blur", function (e) {
+            validateSpecialChars(e.target);
+        });
+        // Adiciona o evento "blur" (mudança de foco) ao campo "Apellido"
+        var apellidoInput = document.getElementById("apellidoField");
+        apellidoInput.addEventListener("blur", function (e) {
+            validateSpecialChars(e.target);
+        });
+        function validateSpecialChars(inputField) {
+            // Verifica se há caracteres especiais no valor do campo
+            var hasSpecialChars = /[~`!@#$%^&*()_+=[\]{}|\\:;"'<>,.?/]/.test(inputField.value);
+            // Se houver caracteres especiais, exibe a mensagem de erro
+            if (hasSpecialChars) {
+                inputField.setCustomValidity("El campo no debe contener caracteres especiales.");
+            } else {
+                // Caso contrário, remove a mensagem de erro
+                inputField.setCustomValidity("");
+            }
+        }
+    });
+</script>
+        <div class="attachments" id="yui_3_18_1_3_1690836389875_18">
+            <!--<img src="https://tienda-dev.travel.cl/file/general/paperclip-icon.svg"/>-->
+            <img src="./sin título_files/paperclip-icon.svg">
+            <div id="rn_FileAttachmentUpload_10" class="rn_FileAttachmentUpload rn_Input">
+    <div id="rn_FileAttachmentUpload_10_LabelContainer">
+        <label for="rn_FileAttachmentUpload_10_FileInput" id="rn_FileAttachmentUpload_10_Label">Anexar documentos                </label>
+    </div>
+    <input name="file" id="rn_FileAttachmentUpload_10_FileInput" type="file" aria-labelledby="rn_FileAttachmentUpload_10_Label">
+        <img id="rn_FileAttachmentUpload_10_LoadingIcon" class="rn_Hidden" alt="Loading" src="./sin título_files/indicator.gif">
+        <span id="rn_FileAttachmentUpload_10_StatusMessage" aria-label="Estado"></span>
+    <span id="rn_FileAttachmentUpload_10_ErrorMessage"></span>
+</div>
+        </div>
+        <br>
+         <div id="captchaArea" class="captcha_Service"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="./sin título_files/anchor.html" width="304" height="78" role="presentation" name="a-b8ytfimetmpj" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;" src="./sin título_files/saved_resource(1).html"></iframe></div>
+        <div class="wrapper_header" id="yui_3_18_1_3_1690836389875_21">
+            <div class="grid-left" id="yui_3_18_1_3_1690836389875_20">
+                <div id="rn_FormSubmit_11" class="rn_FormSubmit">
+    <button type="submit" class="rn_DisplayButton" id="rn_FormSubmit_11_Button">Enviar Solicitud</button>
+    <span class="rn_Hidden">
+        <input id="rn_FormSubmit_11_Submission" type="checkbox" class="rn_Hidden">
+        <label for="rn_FormSubmit_11_Submission" class="rn_Hidden">&nbsp;</label>
+    </span>
+</div>
+            </div>
+            <div class="grid-right"><label class="required_label">Los campos marcados con * son requeridos para continuar.</label></div>
+        </div>
+    </form>
+</div>
+<script>
+    window.addEventListener("load", function(event) {
+        setTimeout(function() {
+            var rutInput = document.querySelector("input[name='Contact.CustomFields.c.rut']");
+            rutInput.addEventListener("change", function(e) {
+                e.target.value = e.target.value.replace(/-/g, "");
+                if (e.target.value.length == 8) {
+                    e.target.value = "0" + e.target.value;
+                }
+                if ((e.target.value.length == 9 && e.target.value.indexOf("-") < 0)) {
+                    e.target.value = e.target.value.slice(0, 8) + "-" + e.target.value.slice(8);
+                }
+            })
+        }, 200)
+        document.getElementById("rn_QuestionSubmit").addEventListener('submit', function(evt){
+            evt.preventDefault();
+            // console.log("Estou aqui, evc nao vai enviar nao");
+        })
+        document.querySelector("#rn_ProductCategoryInput_v2_10_Category_Button").disabled = true;
+        function disabledInputDetalhe(){
+            var txt = document.querySelector("#rn_ProductCategoryInput_v2_9_Button_Visible_Text").innerText;
+            // console.log(txt);
+            if(txt != "Seleccionar"){
+                document.querySelector("#rn_ProductCategoryInput_v2_10_Category_Button").disabled = false;
+            }else{
+                document.querySelector("#rn_ProductCategoryInput_v2_10_Category_Button").disabled = true;
+            } 
+        }
+        var items = document.querySelector("#rn_ProductCategoryInput_v2_9_Tree").querySelectorAll(".ygtvcell");
+        for (let index = 0; index < items.length; index++) {
+            const element = items[index];
+            element.addEventListener("click",function() {
+                setTimeout(function(){
+                    disabledInputDetalhe() 
+                }, 100);
+            });
+            element.addEventListener("keydown",function(e) {
+                // console.log(e.code);
+                if(e.code == "Enter"){
+                    setTimeout(function(){
+                        disabledInputDetalhe() 
+                    }, 100);
+                }
+            });
+        }
+        // console.log("Todos os recursos terminaram o carregamento!");
+  });
+</script>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto');
+    .formPage{
+    	height: 1253px;
+		overflow-y: auto;
+    }
+    .rn_PageContent {
+        padding: 1em 0;
+    }
+    .attachments {
+        display: inline-flex;
+    }
+    input {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+    }
+    .captcha_Service{
+    	margin-top:20px;
+    }
+    textarea,
+    input[type="email"],
+    input[type="number"],
+    input[type="password"],
+    input[type="search"],
+    input[type="tel"],
+    input[type="text"],
+    input[type="url"],
+    input[type="color"],
+    input[type="date"],
+    input[type="datetime"],
+    input[type="datetime-local"],
+    input[type="month"],
+    input[type="time"],
+    input[type="week"],
+    select[multiple=multiple] {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+        padding: 12px;
+        border-radius: 8px;
+        border-color: #B1B4C7;
+        outline: none;
+    }
+    input.rn_Text:focus,input.rn_Text:focus-visible{
+        box-shadow: none;
+        border-color: #B1B4C7;
+    }
+    button:hover:not(:disabled),
+    input[type="submit"]:hover:not(:disabled) {
+        background: #262834 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 0.9;
+    }
+    .grid-left {
+        text-align: left;
+        grid-column: 1/2;
+    }
+    .grid-right {
+        grid-column: 2/3;
+        text-align: right;
+        align-items: end;
+    }
+    ::placeholder {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 0.7;
+    }
+    img {
+        margin-right: 3px;
+        max-width: 10%;
+        margin-bottom: 8px;
+    }
+    .rn_TextInput .rn_Label {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+        margin-top: 20px;
+    }
+    .rn_MaskOverlay {
+        display: none;
+    }
+    .rn_TextInput .rn_Mask {
+        display: none;
+    }
+    .rn_ProductCategoryInput .rn_Label {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+        margin-top: 10px;
+    }
+    .rn_ProductCategoryInput .ygtvlabel,
+    .rn_ProductCategoryInput .ygtvlabel:link,
+    .rn_ProductCategoryInput .ygtvlabel:visited,
+    .rn_ProductCategoryInput .ygtvlabel:hover {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+    }
+    .ygtvchildren .ygtvlabel,
+    .ygtvchildren .ygtvlabel:link,
+    .ygtvchildren .ygtvlabel:visited,
+    .ygtvchildren .ygtvlabel:hover {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+    }
+    .ygtvchildren table {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+    }
+    .rn_ProductCategoryInput .ygtvlabel,
+    .rn_ProductCategoryInput .ygtvlabel:link,
+    .rn_ProductCategoryInput .ygtvlabel:visited,
+    .rn_ProductCategoryInput .ygtvlabel:hover {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+    }
+    .ygtvchildren table td {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+    }
+    .wrapper_header {
+        margin-top: 3em;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-auto-rows: minmax(50px, auto);
+        grid-column-gap: 2em;
+        justify-items: stretch;
+        align-items: stretch;
+        text-align: center;
+    }
+    .required_label {
+        text-align: center;
+        font: normal normal normal 12px/14px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 0.7;
+        text-align: right;
+    }
+    .fa-paperclip:before {
+        margin-right: 9px;
+        content: "\f0c6";
+    }
+    .rn_ErrorMessage a {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+    }
+    h2 {
+        text-align: left;
+        font: normal normal bold 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+    }
+    .rn_container_title {
+        text-align: left;
+        font: normal normal bold 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+    }
+    .rn_ProductCategoryInput.rn_ProductCategoryInput button.rn_DisplayButton {
+        text-align: left;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+        padding: 12px;
+        border-radius: 8px;
+        border-color: #B1B4C7;
+    }
+    .rn_ProductCategoryInput.rn_ProductCategoryInput button.rn_DisplayButton:disabled {
+        background: #c9c9c9;
+        cursor: default;
+    }
+    .rn_FileAttachmentUpload label {
+        text-align: left;
+        text-decoration: underline;
+        font: normal normal normal 14px/17px Roboto;
+        letter-spacing: 0px;
+        color: #262834;
+        opacity: 1;
+    }
+    input[type="file"i] {
+        width: 0.1px;
+        height: 0.1px;
+        opacity: 0;
+        overflow: hidden;
+        position: absolute;
+        z-index: -1;
+    }
+    .rn_FormSubmit button {
+        background: #262834 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        text-align: left;
+        font: normal normal bold 16px/19px Roboto;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        padding: 15px 40px;
+    }
+    .page-title {
+        margin-top: 40px;
+        margin-bottom: 22px;
+        font-size: 18px;
+        line-height: 22px;
+    }
+</style>
+    </div>
+</div>
+
+<script>var YUI_config={"fetchCSS":false,"modules":{"RightNowTreeView":"/euf/core/3.8/js/4.54/min/modules/ui/treeview.js","RightNowTreeViewDialog":"/euf/core/3.8/js/4.54/min/modules/ui/treeviewdialog.js","RightNowTreeViewDropdown":"/euf/core/3.8/js/4.54/min/modules/ui/treeviewdropdown.js"},"lang":["es-ES","en-US"],"injected":true,"comboBase":"//dutyfree--tst1.widget.custhelp.com/ci/cache/yuiCombo/","groups":{"gallery-treeview":{"base":"/rnt/rnw/yui_3.18/gallery-treeview/","modules":{"gallery-treeview":{"path":"gallery-treeview-min.js"}}}}};</script>
+<script type="text/javascript" src="./sin título_files/RightNow.js.download"></script><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div>
+<script type="text/javascript" src="./sin título_files/ask_v2.4e45c3e8b986a4155ac67f02174eee0b.js.download"></script>
+<script>
+/* <![CDATA[ */
+RightNow.Env=(function(){var _props={module:'standard',coreAssets:'/euf/core/3.8/',yuiCore:'/rnt/rnw/yui_3.18/',profileData:{"isLoggedIn":false,"previouslySeenEmail":null}};return function(prop){return _props[prop];};})();RightNow.Interface.setMessagebase(function(){return {"ATTRIBUTES_LC_LBL":"attributes","ATTRIBUTE_HAVENT_SPECIFIED_VALID_IT_LBL":"El valor para el atributo '%s' es un n\u00famero y no ha especificado un valor v\u00e1lido para \u00e9l.","BACK_LBL":"Atr\u00e1s","BEG_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"Comienzo de di\u00e1logo; descarte el di\u00e1logo antes de continuar","CHANGED_LBL":"Cambiado","CLOSE_CMD":"Cerrar","COL_SAVE_ED_ERR_L_INV_E_PERMISSIONS_MSG":"Los cambios de widget no se pudieron guardar debido a errores al guardar. Compruebe los permisos de archivo.","DIALOG_LBL":"di\u00e1logo","DIALOG_PLEASE_READ_TEXT_DIALOG_MSG_MSG":"di\u00e1logo, lea el texto anterior para obtener informaci\u00f3n sobre el mensaje del di\u00e1logo","END_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"Fin de di\u00e1logo; descarte el di\u00e1logo antes de continuar","ERROR_LBL":"Error","ERRORS_LBL":"Errores","ERROR_PCT_S_LBL":"Error: %s","ERROR_REQUEST_ACTION_COMPLETED_MSG":"Ha habido un error con la solicitud y no se pudo finalizar la acci\u00f3n.","ERR_SUBMITTING_FORM_DUE_INV_INPUT_LBL":"Se ha producido un error al enviar el formulario debido a una entrada no v\u00e1lida","ERR_SUBMITTING_SEARCH_MSG":"Ha habido un problema con su solicitud. Cambie los t\u00e9rminos de b\u00fasqueda e int\u00e9ntelo de nuevo.","HELP_LBL":"Ayuda","INFORMATION_LBL":"Informaci\u00f3n","INFORMATION_S_LBL":"Informaci\u00f3n: %s","OK_LBL":"Aceptar","PCT_S_ATTRIB_REQD_HAVENT_VALUE_MSG":"El atributo '%s' es necesario y no ha especificado un valor para \u00e9l.","PG_COL_SAVE_ED_ERR_L_INV_E_PERMISSIONS_MSG":"Los cambios de widget de p\u00e1gina no se pudieron guardar debido a errores al guardar. Compruebe los permisos de archivo de p\u00e1gina.","REVEALED_DISP_TB_DD_OP_ADDTL_T_EXPOSED_MSG":"Nota: una vez revelado, el widget se puede inspeccionar, pero puede que sea necesario realizar acciones adicionales para exponerlo.","SOME_INST_ID_BUT_SEE_ITS_SATTRIBUTESS_MSG":"Parte o la totalidad de todas las instancias de este widget quedan ocultas, si bien el usuario puede ver sus %satributos%s.","SUCCESS_S_LBL":"Correcto: %s","TEMPL_COL_SAVE_ED_ERR_INV_TEMPL_PRMSSNS_MSG":"Los cambios de widget de plantilla no se pudieron guardar debido a errores al guardar. Compruebe los permisos de archivo de plantilla.","THIS_WIDGET_HAS_NO_ATTRIBUTES_MSG":"Este widget no tiene atributos.","THIS_WIDGET_HAS_NO_VIEW_LBL":"Este widget no tiene vista","VAL_PCT_S_ATTRIB_MINIMUM_VAL_ACCD_MSG":"El valor del atributo '%s' es demasiado peque\u00f1o. El valor m\u00ednimo aceptado es %s pero el valor recibido es %s.","VAL_PCT_S_ATTRIB_MAX_VAL_ACCD_PCT_S_MSG":"El valor del atributo '%s' es demasiado grande. El valor m\u00e1ximo aceptado es %s pero el valor recibido es %s.","VIEW_ATTRIBUTES_LBL":"Ver atributos","WARNING_LBL":"Advertencia","WARNING_S_LBL":"Advertencia: %s","WIDGET_CHANGES_ERRORS_WILL_IGNORED_MSG":"Los cambios de widget con errores se ignorar\u00e1n.","FORMSUBMIT_PLACED_FORM_UNIQUE_ID_MSG":"FormSubmit debe colocarse en un formulario con un ID \u00fanico.","PLS_VERIFY_REQ_ENTERING_TEXT_IMG_MSG":"Verifique su solicitud introduciendo el texto que aparece en la imagen.","VALUE_MUST_BE_AN_INTEGER_MSG":"el valor debe ser un n\u00famero entero","VALUE_IS_TOO_LARGE_MAX_VALUE_MSG":"el valor es demasiado grande (valor m\u00e1ximo: ","VALUE_IS_TOO_SMALL_MIN_VALUE_MSG":"el valor es demasiado peque\u00f1o (valor m\u00ednimo: ","CONTAIN_1_CHARACTER_MSG":"debe contener al menos un car\u00e1cter m\u00e1s","PCT_D_CHARACTERS_MSG":"debe tener una longitud de al menos %d caracteres.","EXCEEDS_SZ_LIMIT_PCT_D_CHARS_1_LBL":"supera el l\u00edmite de tama\u00f1o de %d caracteres en 1 car\u00e1cter","S_SZ_CHARS_CHARS_CHARS_XP_SBM_SZ_XCDD_MSG":"supera el l\u00edmite de tama\u00f1o de %d caracteres en %d caracteres. Tenga en cuenta que algunos caracteres (como, por ejemplo, '&' y '<') se ampl\u00edan al enviarse, lo que puede dar como resultado que se supere el l\u00edmite de tama\u00f1o.","PCT_S_IS_AN_INVALID_POSTAL_CODE_MSG":"%s es un c\u00f3digo postal no v\u00e1lido.","PCT_S_IS_AN_INVALID_PHONE_NUMBER_MSG":"%s es un n\u00famero de tel\u00e9fono no v\u00e1lido","PCT_S_CONT_SPACES_DOUBLE_QUOTES_LBL":"%s no puede contener espacios, comillas dobles ni <>","PCT_S_DIDNT_MATCH_EXPECTED_INPUT_LBL":"%s no coincide con la entrada esperada","CONTAIN_SPACES_PLEASE_TRY_MSG":"no puede incluir espacios. Vuelva a intentarlo.","PCT_S_IS_INVALID_MSG":"%s no es v\u00e1lido","IS_NOT_A_VALID_URL_MSG":"no es una URL v\u00e1lida","REQUIRED_LBL":"Necesario","FIELD_REQUIRED_MARK_LBL":"*","SELECT_BELOW_USING_LINKS_PROVIDED_MSG":"Seleccione un producto a continuaci\u00f3n mediante los enlaces proporcionados.","CATEGORY_BELOW_USING_LINKS_PROVIDED_MSG":"Seleccione una categor\u00eda a continuaci\u00f3n mediante los enlaces proporcionados.","DEPTH_ANNOUNCED_NAVIGATE_THROUGH_LIST_MSG":"Se informa de la profundidad a medida que se desplaza por la lista.","CANCEL_CMD":"Cancelar","SELECTION_PCT_S_ACTIVATE_LINK_JUMP_MSG":"La selecci\u00f3n actual es: '%s'. Active este enlace para saltar a la selecci\u00f3n actual.","EXPECTED_INPUT_LBL":"Entrada esperada","WAITING_FOR_CHARACTER_LBL":"Esperando el car\u00e1cter: ' ","PLEASE_TYPE_A_NUMBER_MSG":"Escriba un n\u00famero","PLEASE_ENTER_UPPERCASE_LETTER_MSG":"Introduzca una letra may\u00fascula o un n\u00famero","PLEASE_ENTER_AN_UPPERCASE_LETTER_MSG":"Introduzca una letra may\u00fascula","PLS_ENTER_UPPERCASE_LETTER_SPECIAL_MSG":"Introduzca una letra may\u00fascula, un n\u00famero o un car\u00e1cter especial","PLEASE_ENTER_LOWERCASE_LETTER_MSG":"Introduzca una letra min\u00fascula o un n\u00famero","PLEASE_ENTER_A_LOWERCASE_LETTER_MSG":"Introduzca una letra min\u00fascula","PLS_ENTER_LOWERCASE_LETTER_SPECIAL_MSG":"Introduzca una letra min\u00fascula, un n\u00famero o un car\u00e1cter especial","PLEASE_ENTER_A_LETTER_OR_A_NUMBER_MSG":"Introduzca una letra o un n\u00famero","PLEASE_ENTER_A_LETTER_MSG":"Introduzca una letra","PLEASE_ENTER_LETTER_SPECIAL_CHAR_MSG":"Introduzca una letra, un n\u00famero o un car\u00e1cter especial","THE_INPUT_IS_TOO_LONG_MSG":"La entrada es demasiado larga","THE_INPUT_IS_TOO_SHORT_MSG":"La entrada es demasiado corta","CHARACTER_LBL":"Car\u00e1cter","THERE_PROB_REQ_ACTION_COULD_COMPLETED_MSG":"Ha habido un problema con la solicitud y no se pudo finalizar la acci\u00f3n.","FILE_PATH_FOUND_MSG":"No se encontr\u00f3 la ruta de archivos especificada","FILE_ATT_UPLOAD_EMPTY_PLS_ENSURE_MSG":"El archivo que intenta cargar est\u00e1 vac\u00edo. Aseg\u00farese de que ha seleccionado el archivo correcto para anexar e int\u00e9ntelo de nuevo.","FILE_UPLOAD_ALLOWED_FILE_MSG":"Se ha tardado m\u00e1s de lo permitido en cargar el archivo. Es posible que el archivo sea demasiado grande o que est\u00e9 experimentando problemas de red.","FILE_DELETED_LBL":"Archivo suprimido","UPLOADING_ELLIPSIS_MSG":"Cargando\u2026.","FILE_UPLOAD_COMPLETE_LBL":"Carga de archivos finalizada","ERROR_PAGE_PLEASE_S_TRY_MSG":"Hay un error en la p\u00e1gina. Corrija el problema e intente de nuevo."};});
+RightNow.Interface.setConfigbase(function(){return {"DE_VALID_EMAIL_PATTERN":"^((([-_!#$%&'*+\/=?^~`{|}\\w]+(\\.[.]?[-_!#$%&'*+\/=?^~`{|}\\w]+)*)|(\"[^\"]+\"))@[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*)+[; ]*)$","CP_HOME_URL":"home","CP_FILE_UPLOAD_MAX_TIME":300,"OE_WEB_SERVER":"dutyfree--tst1.custhelp.com","SUBMIT_TOKEN_EXP":30};});
+RightNow.Url.setParameterSegment(4);
+RightNow.Url.setSession('L3RpbWUvMTY5MDgzNjM4Ny9nZW4vMTY5MDgzNjM4Ny9zaWQvZlVJbHh1cE5TWGhzVzhzVzRBSXFJTVVsRzh0NUJTS1h4VkNJaHFEMV9ubjRrdXVKZ3hoU2tZcklFbzIlN0VZbDlxSE00dFM5Q0d6d3p5NzU3dlRIVld0TDlwWkklN0U5dEVlT2JDTUdaQndOd2ZNdGtrN0pBZlBSX3F0QSUyMSUyMQ==');
+RightNow.Event.setNoSessionCookies(true);
+RightNow.Interface.Constants = 
+{"API_VALIDATION_REGEX_EMAIL":"((([-_!#$%&'*+\/=?^~`{|}\\w]+([.][-_!#$%&'*+\/=?^~`{|}\\w]*)*)|(\"[^\"]+\"))@[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*)+[;, ]*)+"};
+YUI().use('event-base',function(Y){Y.on('domready',function(){var n=RightNow.namespace,W=RightNow.Widgets,c='createWidgetInstance';
+n('Custom.Widgets.input.InputRUT').templates={"label":"<% if (label) { %>  <label for=\"rn_<%= instanceID %>_<%= fieldName %>\" id=\"rn_<%= instanceID %>_Label\" class=\"rn_Label\" aria-hidden=\"true\"> <%= label %> <% if (required) { %>  <%= getRequiredLabel() %>  <% } %> <\/label> <% } %>","labelValidate":"<label for=\"rn_<%= instanceID %>_<%= fieldName %>_Validate\" id=\"rn_<%= instanceID %>_<%= fieldName %>_LabelValidate\" class=\"rn_Label\"><%= label %><% if (required) { %>  <%= getRequiredLabel() %> <% } %><\/label>"};
+n('Custom.Widgets.input.Input_v2').templates={"label":"<% if (label) { %>  <label for=\"rn_<%= instanceID %>_<%= fieldName %>\" id=\"rn_<%= instanceID %>_Label\" class=\"rn_Label\" aria-hidden=\"true\"> <%= label %> <% if (required) { %>  <%= getRequiredLabel() %>  <% } %> <\/label> <% } %>","labelValidate":"<label for=\"rn_<%= instanceID %>_<%= fieldName %>_Validate\" id=\"rn_<%= instanceID %>_<%= fieldName %>_LabelValidate\" class=\"rn_Label\"><%= label %><% if (required) { %>  <%= getRequiredLabel() %> <% } %><\/label>"};
+n('Custom.Widgets.input.ProductCategoryInput_v2').templates={"label":"<%= label %><% if(requiredLevel) { %><span class=\"rn_Required\"> <%= requiredMarkLabel %><\/span><span id=\"rn_<%= instanceID %>_ErrorLabel\" class=\"rn_ErrorLabel\"><\/span><% } %>"};
+n('Custom.Widgets.input.ProductCategoryInput_v2').requires=["panel","overlay","gallery-treeview","RightNowTreeView","RightNowTreeViewDialog","RightNowTreeViewDropdown"];
+n('RightNow.Widgets.FileAttachmentUpload').templates={"attachmentItem":"<li id=\"<%= id %>\">  <% if (displayThumbnail) { %>  <span class=\"rn_Thumbnail\"><\/span>  <% } %>  <%= escapeHtml(name) %>   <a href='javascript:void(0)' class='rn_fileRemove' data-fileid='<%= fileId %>'><%= attrs.label_remove %><span class='rn_ScreenReaderOnly'><%= escapeHtml(name) %><\/span><\/a>  <\/li>","error":"<div data-field=\"<%= fieldName %>\">  <b><a href='javascript:void(0);' onclick='document.getElementById(\"<%= id %>\").focus(); return false;'><%= errorLink %><\/a><\/b> <\/div>","label":"<label for=\"rn_<%= instanceID %>_FileInput\" id=\"rn_<%= instanceID %>_Label\"><%= label %><% if(minAttachments) { %> <%= getRequiredLabel() %><% } %><\/label>","maxMessage":"<div class = 'rn_ErrorMessage'>  <%= maxMessage %> <\/div>"};
+n('RightNow.Widgets.FormSubmit').requires=["anim-scroll"];
+W.setInitialWidgetCount(10);
+W[c]({"i":{"c":"InputRUT","n":"InputRUT","w":2},"a":{"label_input":"RUT","label_error":"Ingresar el Rut sin punto, con gui\u00f3n y el d\u00edgito verificador. Si el Rut es menor a 10 millones debe anteponer un 0","label_required":"%s es necesario","name":"Contact.CustomFields.c.rut","required":true,"hint":"","always_show_hint":false,"tooltip_accessibility_message":"Pulse la flecha derecha y despu\u00e9s la flecha abajo para acceder a la pista","initial_focus":false,"validate_on_blur":false,"always_show_mask":true,"default_value":"","allow_external_login_updates":false,"hide_hint":true,"existing_contact_check_ajax":"\/ci\/ajax\/widget\/custom\/input\/InputRUT\/existingContactCheck","require_validation":false,"maximum_length":0,"minimum_length":0,"maximum_value":null,"minimum_value":null,"label_validation_incorrect":"Fallo de validaci\u00f3n del campo '%s'","label_validation":"Volver a introducir un valor para el campo '%s'","textarea":false,"hide_on_load":false,"read_only":false,"placeholder":"Ejemplo: 12345678-9"},"j":{"type":"String","name":"Contact.CustomFields.c.rut","custom":true,"constraints":{"maxLength":10},"mask":"M#M#M#M#M#M#M#M#F-MA","readOnly":false,"contactToken":"ZlVWX0VEQmlINmNWYjlxc1ZHS1JEVVhlMkVJZHRUUHE1RlVYMVhzYkZSTG1GemhDdWZoNF9tZ0o3Vk1PdmM4d2RHd0JZdH5IOUk1OGJPbXg0SU91fnF6ZUQ2emZlTlhPVWlUWTRMbEk1VTRCYlo5TFlMeVFHc25Ec3R4aklXbFpBN3FWaGF3aWpVZTJNVXVGb1J_Qkl_eEM3QmlveVNCNnpT"}},'eyJleHRlbmRzIjpbInN0YW5kYXJkXC9pbnB1dFwvVGV4dElucHV0Il0sIm5vbkRlZmF1bHRBdHRyVmFsdWVzIjp7Im5hbWUiOiJDb250YWN0LkN1c3RvbUZpZWxkcy5jLnJ1dCIsImFsd2F5c19zaG93X21hc2siOiJ0cnVlIiwicGxhY2Vob2xkZXIiOiJFamVtcGxvOiAxMjM0NTY3OC05IiwicmVxdWlyZWQiOiJ0cnVlIiwibGFiZWxfaW5wdXQiOiJSVVQiLCJsYWJlbF9lcnJvciI6IkluZ3Jlc2FyIGVsIFJ1dCBzaW4gcHVudG8sIGNvbiBndWlcdTAwZjNuIHkgZWwgZFx1MDBlZGdpdG8gdmVyaWZpY2Fkb3IuIFNpIGVsIFJ1dCBlcyBtZW5vciBhIDEwIG1pbGxvbmVzIGRlYmUgYW50ZXBvbmVyIHVuIDAiLCJoaWRlX2hpbnQiOiJ0cnVlIiwiaGludCI6IiJ9LCJleGVtcHRfZnJvbV9sb2dpbl9yZXF1aXJlbWVudCI6eyJleGlzdGluZ0NvbnRhY3RDaGVjayI6dHJ1ZX19','fUqNlWriqDKu_978p_HaHWugY~GE_AL7sIbzQvje7NVQeYVLKJCwb0uSZGSQivc9MDrjwyIYqyVBoPKpwtsVuI8UU3myjdqrbQqUFS2eHnQimGY92MTzlvrJD_J2QObHLIXTv0HfCAT9w!',1690836387,'InputRUT_2','custom/input/InputRUT','Custom.Widgets.input.InputRUT','2','ZlUyfmZDd2NRakhfRllrOEJ6R3JCOThIUk5jVW9VdEFmdHRHYWw2ZkdKRktSWjM1bWw5QnduWGZKZngxZDZifm1QNm43dWdoQ0V1eEFwSEZBRldGTXVHdXY0Y01kSDFYYVl2TVhVNHVYOUdTSGZVUUM3RUlZckxDUlBiTElDdFZpcGx6Y0Z2ZkdUUThSZ2dCWlpTbTB1fnFNN1pNRTdkZTFU');
+W[c]({"i":{"c":"Input_v2","n":"Input_v2","w":3},"a":{"placeholder":"Ingresa 9 d\u00edgitos","label_input":"Tel\u00e9fono de contacto","label_error":"","label_required":"%s es necesario","name":"Contact.Phones.MOBILE.Number","required":true,"hint":"","always_show_hint":false,"tooltip_accessibility_message":"Pulse la flecha derecha y despu\u00e9s la flecha abajo para acceder a la pista","initial_focus":false,"validate_on_blur":false,"always_show_mask":true,"default_value":"","allow_external_login_updates":false,"hide_hint":false,"existing_contact_check_ajax":"\/ci\/ajax\/widget\/custom\/input\/Input_v2\/existingContactCheck","require_validation":false,"maximum_length":9,"minimum_length":0,"maximum_value":null,"minimum_value":null,"label_validation_incorrect":"Fallo de validaci\u00f3n del campo '%s'","label_validation":"Volver a introducir un valor para el campo '%s'","textarea":false,"hide_on_load":false,"read_only":false},"j":{"type":"String","name":"Contact.Phones.MOBILE.Number","custom":false,"constraints":{"regex":"^[\\]\\[+0-9a-zA-Z \\t.,()#-\/:]*$","minLength":1,"maxLength":9},"readOnly":false,"contactToken":"ZlVrVHFOS0NZZjNEdUJrdEh4Z3YwbG1FT3B1SGUwT3lTald3NllJamhsR0J6WGZIUVhxZ3lTWExuRGx4N0ZWcFVrbW9tZnFNUlRFTX5ITnl2ZHRXMk1_VV9RRktKdmRfaVU1aUR_cklDVlZudGhQYjdjWFJMV2owUlVPcG1nYTZ6NFdNZEZzWFdpQmx4Vjh2Mn5JcHFGSWlwUWoxTDkyeUxJ"}},'eyJleHRlbmRzIjpbInN0YW5kYXJkXC9pbnB1dFwvVGV4dElucHV0Il0sIm5vbkRlZmF1bHRBdHRyVmFsdWVzIjp7Im5hbWUiOiJDb250YWN0LlBob25lcy5NT0JJTEUuTnVtYmVyIiwicGxhY2Vob2xkZXIiOiJJbmdyZXNhIDkgZFx1MDBlZGdpdG9zIiwicmVxdWlyZWQiOiJ0cnVlIiwibGFiZWxfaW5wdXQiOiJUZWxcdTAwZTlmb25vIGRlIGNvbnRhY3RvIiwibWF4aW11bV9sZW5ndGgiOiI5In0sImV4ZW1wdF9mcm9tX2xvZ2luX3JlcXVpcmVtZW50Ijp7ImV4aXN0aW5nQ29udGFjdENoZWNrIjp0cnVlfX0=','fUc3JEo_iQYD6HUoOu4S_WApG6cw2MBhuO~zOK7zgJX~omH3eMsZqfQnFCY7wXRWvdqpDLd2y07O8G3op5mv9V2NHhBwT_NG0aq7JAHP1a4sC8f6tG3jMGqZ0yTAPcs~oqIu9uEpvxpPU!',1690836387,'Input_v2_3','custom/input/Input_v2','Custom.Widgets.input.Input_v2','3','ZlU1dU5MZ3ZYNmJmTUw5ckJiODAxWUZ5V0NKMmJoSjZTVE10c2tYUExabXd3aEVZcWFKSjNwTmFRQUZKcTJTNHhQTnBTTE5NNkVHbmRWZmNBRn5vZHRjMkV0Uk9oSlVuRFdnbnRubldnWTFVRUxHR3BVVzhaYWIxS3owWG9WWUI5d0duNFQ3Y1FhckU0UXJRMDdyRDBfN3NncEN6U1d0TU5q');
+W[c]({"i":{"c":"Input_v2","n":"Input_v2","w":4},"a":{"placeholder":"Ejemplo: rsalamanca@mail.com","label_input":"Direcci\u00f3n de correo electr\u00f3nico","label_error":"","label_required":"%s es necesario","name":"Contact.Emails.PRIMARY.Address","required":true,"hint":"","always_show_hint":false,"tooltip_accessibility_message":"Pulse la flecha derecha y despu\u00e9s la flecha abajo para acceder a la pista","initial_focus":false,"validate_on_blur":false,"always_show_mask":true,"default_value":"","allow_external_login_updates":false,"hide_hint":false,"existing_contact_check_ajax":"\/ci\/ajax\/widget\/custom\/input\/Input_v2\/existingContactCheck","require_validation":false,"maximum_length":0,"minimum_length":0,"maximum_value":null,"minimum_value":null,"label_validation_incorrect":"Fallo de validaci\u00f3n del campo '%s'","label_validation":"Volver a introducir un valor para el campo '%s'","textarea":false,"hide_on_load":false,"read_only":false},"j":{"type":"String","name":"Contact.Emails.PRIMARY.Address","custom":false,"constraints":{"regex":"^((([-_!#$%&'*+\/=?^~`{|}\\w]+(\\.[.]?[-_!#$%&'*+\/=?^~`{|}\\w]+)*)|(\"[^\"]+\"))@[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*)+[; ]*)$","minLength":1,"maxLength":80},"readOnly":false,"contactToken":"ZlVjOUNueUF3aU9tbjFvbHpkQ0ZiSVVCOUtTWFhINXFHY25QTEJjcUVwS2dsRVdZc3BqenRzZVRmc2tJeDFLNG5mNTYwYXljU2JDdDJlaHBEUm5qOHk4TFR5Z1V1RXo3cEhCSzFUTE1nSUI0VlBna0tUQ09tbmJSeHU0NUMxekI1aXRDcWVyWFQ1WklsRU1_UXZTUjZEQUxReG1PMlhQQTRl"}},'eyJleHRlbmRzIjpbInN0YW5kYXJkXC9pbnB1dFwvVGV4dElucHV0Il0sIm5vbkRlZmF1bHRBdHRyVmFsdWVzIjp7Im5hbWUiOiJDb250YWN0LkVtYWlscy5QUklNQVJZLkFkZHJlc3MiLCJwbGFjZWhvbGRlciI6IkVqZW1wbG86IHJzYWxhbWFuY2FAbWFpbC5jb20iLCJyZXF1aXJlZCI6InRydWUiLCJsYWJlbF9pbnB1dCI6IkRpcmVjY2lcdTAwZjNuIGRlIGNvcnJlbyBlbGVjdHJcdTAwZjNuaWNvIn0sImV4ZW1wdF9mcm9tX2xvZ2luX3JlcXVpcmVtZW50Ijp7ImV4aXN0aW5nQ29udGFjdENoZWNrIjp0cnVlfX0=','fUSGTxd_bcEbx6yejfQXaUUlRRoaqrcU6V3KrmbVtK1VYTUnBaEmO07C3fP_temSmdhPq2cmNioXaQvb7_m8ohl~CJJuGXsYCu_iZX5IK1mBoJiIewwPNslTuxafgeu1H3ozFRZ1w2DpM!',1690836387,'Input_v2_4','custom/input/Input_v2','Custom.Widgets.input.Input_v2','4','ZlUzV3VHNVg0MTVmaDVQMnFVSHRtMHlhdmZsc3NDU21QdWhqUWFXWnJ_XzF0ZzhyRjJSVUpZeGVma3dxTnlkSzB1RW9BVkdsdX55akFDS0NrS25DR2lCSDV5a1BqT2lyckdLZFp_T3V3dlRuUmZLWnZhS1Z_MFg4dDlPWGJGMGRuQ2JUZEhEUWV_X3ZaU3RJZGkwTHNhUkJVUTA2RHV2SUVC');
+W[c]({"i":{"c":"Input_v2","n":"Input_v2","w":5},"a":{"placeholder":"Ingresa un t\u00edtulo para tu solicitud","label_input":"Asunto","label_error":"","label_required":"%s es necesario","name":"Incident.Subject","required":true,"hint":"","always_show_hint":false,"tooltip_accessibility_message":"Pulse la flecha derecha y despu\u00e9s la flecha abajo para acceder a la pista","initial_focus":false,"validate_on_blur":false,"always_show_mask":true,"default_value":"","allow_external_login_updates":false,"hide_hint":false,"existing_contact_check_ajax":"\/ci\/ajax\/widget\/custom\/input\/Input_v2\/existingContactCheck","require_validation":false,"maximum_length":30,"minimum_length":0,"maximum_value":null,"minimum_value":null,"label_validation_incorrect":"Fallo de validaci\u00f3n del campo '%s'","label_validation":"Volver a introducir un valor para el campo '%s'","textarea":false,"hide_on_load":false,"read_only":false},"j":{"type":"String","name":"Incident.Subject","custom":false,"constraints":{"minLength":1,"maxLength":30},"readOnly":false,"contactToken":"ZlVtdndjY2lKfk9EZ01FTXBqUUY3dTI3ZzNCeWdReXRoU194bU1UN35QVExmdExXUEx6NmdSanoxN1VoZ35jQTU2VEtTSHhzdGU4bTNoRkxsamR5NTJMaUJVTVRFZFA3VE9RVHlHYkk5OGg1ZTZtRjF6cVIwb3M3cXF_UndhQ2VaUF9pdFB3bk4xaThMblM1MWNKdVQ5cU1NR24wa2ZtMTdY"}},'eyJleHRlbmRzIjpbInN0YW5kYXJkXC9pbnB1dFwvVGV4dElucHV0Il0sIm5vbkRlZmF1bHRBdHRyVmFsdWVzIjp7Im5hbWUiOiJJbmNpZGVudC5TdWJqZWN0IiwicGxhY2Vob2xkZXIiOiJJbmdyZXNhIHVuIHRcdTAwZWR0dWxvIHBhcmEgdHUgc29saWNpdHVkIiwicmVxdWlyZWQiOiJ0cnVlIiwibGFiZWxfaW5wdXQiOiJBc3VudG8iLCJtYXhpbXVtX2xlbmd0aCI6IjMwIn0sImV4ZW1wdF9mcm9tX2xvZ2luX3JlcXVpcmVtZW50Ijp7ImV4aXN0aW5nQ29udGFjdENoZWNrIjp0cnVlfX0=','fUPEqTpDhv0gzBh6DxNO8Ei3LNMjRnNtWtdAgBsq8P0CceEjdz5zjxk8IXxVcSPt8t1MedoAoqR6jjFHIZC37t1bRPnYMDa4DLB__6p~wxsh0yis5X6BN1c0Tn6OFttdfft9714Dk1Nko!',1690836387,'Input_v2_5','custom/input/Input_v2','Custom.Widgets.input.Input_v2','5','ZlVMZ0J3Nm5ZTEp0S0YwYUZjN0cyMDJFdGZjOTg5cjZSaHJKZ3hvY2tKc18xTzJZeHZHdlNvZTkySHFDNXU1Z2dtZ2tYY3kxWWFNRG5HdW92flVXSlVmWmFrdE1naGFpU01NbmZOVEUybW5DdnlCUmZEbGRPUndtUmMwTG1ndlczQWdpS3J6MkluNTZZd3BWZkhBa0lIVTY3aVhkdms1YlBs');
+W[c]({"i":{"c":"Input_v2","n":"Input_v2","w":6},"a":{"placeholder":"Ingresa el n\u00famero de orden asociado","label_input":"N\u00famero de carro de compra","label_error":"","label_required":"%s es necesario","name":"Incident.CustomFields.c.ocs_numero_pedido","required":false,"hint":"","always_show_hint":false,"tooltip_accessibility_message":"Pulse la flecha derecha y despu\u00e9s la flecha abajo para acceder a la pista","initial_focus":false,"validate_on_blur":false,"always_show_mask":true,"default_value":"","allow_external_login_updates":false,"hide_hint":false,"existing_contact_check_ajax":"\/ci\/ajax\/widget\/custom\/input\/Input_v2\/existingContactCheck","require_validation":false,"maximum_length":0,"minimum_length":0,"maximum_value":null,"minimum_value":null,"label_validation_incorrect":"Fallo de validaci\u00f3n del campo '%s'","label_validation":"Volver a introducir un valor para el campo '%s'","textarea":false,"hide_on_load":false,"read_only":false},"j":{"type":"String","name":"Incident.CustomFields.c.ocs_numero_pedido","custom":true,"constraints":{"maxLength":255},"readOnly":false,"contactToken":"ZlV1WXR6aXFFZ3lqbklpemQzRU9fSVo5NWttMl9LUDdUbm8yNG9xWVZ1bzdoZzhWVkU3YTAyMnFsMXRjT0lsb2ZuYkVXZFZ0Mzd_dXdqTFBHODE4VndhS25sMUQyS0F5QWR3UUJOUXU1dXVNdjhjMkJrZnFPYUY3ZnpXcmE3ejVOeW9OcTdkRTR1UFVFeTVzSDhNajQyS25ackdlSEF5dDdx"}},'eyJleHRlbmRzIjpbInN0YW5kYXJkXC9pbnB1dFwvVGV4dElucHV0Il0sIm5vbkRlZmF1bHRBdHRyVmFsdWVzIjp7InBsYWNlaG9sZGVyIjoiSW5ncmVzYSBlbCBuXHUwMGZhbWVybyBkZSBvcmRlbiBhc29jaWFkbyIsIm5hbWUiOiJJbmNpZGVudC5DdXN0b21GaWVsZHMuYy5vY3NfbnVtZXJvX3BlZGlkbyIsImxhYmVsX2lucHV0IjoiTlx1MDBmYW1lcm8gZGUgY2Fycm8gZGUgY29tcHJhIn0sImV4ZW1wdF9mcm9tX2xvZ2luX3JlcXVpcmVtZW50Ijp7ImV4aXN0aW5nQ29udGFjdENoZWNrIjp0cnVlfX0=','fULeMsC0k3lWEhFEchzE2aMQRIvYHuJgEjToj3JoiycPLOR3FXUJkFizje_qylYoPbhRNzznh3kRuGrHeub4pH_UFa43YFMS2fGTzOZrN1NmS9mYwc6cT3FnJCWZP~7EI9u_tUv1AnB9k!',1690836387,'Input_v2_6','custom/input/Input_v2','Custom.Widgets.input.Input_v2','6','ZlVFM0Vkd2s4SzZTSm9BNWFkYWVzUzZrMlFYSH5aTzJNflVfWDFRckMxTGUzQjRHN1hDRFVsT093bnJpcG9maF82TTRzZUtNVGR2STc2VHVHOW1CdlRlUF83YVNnWkhuV0xnZWxMT1pITm9lfjl4T1ZCME5MUWVDWE42YkdFQ2hMcU1kU1pPcGo1TERVRGo5b01kX3ppaDhsb3hxYTlIYmVk');
+W[c]({"i":{"c":"ProductCategoryInput_v2","n":"ProductCategoryInput_v2","w":7},"a":{"just_show":"219,220,221,222,223,224,225,227","default_value":"","label_all_values":"Seleccionar","label_input":"Motivo de Consulta\/Reclamo","label_error":"Por favor, seleccione un motivo de consulta\/reclamo","label_set_button":"Motivos de Consultsa\/Reclamos","label_required":"Seleccione un valor","label_not_permissioned":"No tiene permiso para seleccionar %s. Seleccione un elemento diferente.","label_selection_not_valid":"%s no es una selecci\u00f3n v\u00e1lida","label_confirm_button":"Aceptar","label_cancel_button":"Cancelar","label_nothing_selected":"Seleccionar","label_accessible_interface":"Este bot\u00f3n no funciona con lectores de pantalla. Utilice el enlace anterior en su lugar.","label_screen_reader_selected":"Valores seleccionados:","label_screen_reader_accessible_option":"Los usuarios del lector de pantalla pulsan Intro para seleccionar %s.","verify_permissions":"None","name":"Incident.Product","label_level":"Nivel","required_lvl":3,"max_lvl":6,"linking_off":false,"set_button":false,"allow_external_login_updates":false,"show_confirm_button_in_dialog":false,"hint":"","always_show_hint":false,"hide_on_load":false},"j":{"type":"ServiceProduct","name":"Incident.Product","custom":false,"constraints":[],"table":"Incident","data_type":"Product","permissionedProdcatIds":[],"permissionedProdcatList":[],"readableProdcatIdsWithChildren":[],"readableProdcatIds":[],"linkingOn":1,"hm_type":13,"hierData":[[{"id":0,"label":"Seleccionar"},{"id":219,"label":"Despacho","hasChildren":false,"selected":false},{"id":221,"label":"Garant\u00eda Producto","hasChildren":false,"selected":false},{"id":223,"label":"Consulta de Pago","hasChildren":false,"selected":false},{"id":225,"label":"Giftcard","hasChildren":false,"selected":false},{"id":226,"label":"Travel Box","hasChildren":false,"selected":false},{"id":227,"label":"Ventas","hasChildren":false,"selected":false},{"id":228,"label":"Entel Visa","hasChildren":false,"selected":false}]]}},'W10=','fUtqEDRsE7kikiopAtsuJlPEKxp0f_ut0skzHdPPzWq8cGp4eE3E2JnXtczX35fhb12lSWtsivCsbKGvD91a9wdTlU9e9~0NWpuIv6Dff1HOVq_UnDMVe8eQkRmKKrXl4Kg_WowrCfjrM!',1690836387,'ProductCategoryInput_v2_7','custom/input/ProductCategoryInput_v2','Custom.Widgets.input.ProductCategoryInput_v2','7','ZlU2cHJwTDREfm5tMjZwNjhqWVlvV2theThiTGJEdGFKZ3A5OWNENXFVWWZDUVVmQTRveXVjSDZPOHhFVWlqa0NEfm1vVmMxYms4VXFtVzdPSHc3bHNYWVd3SDVCZ0RxdkhsMnNmVU5qYVQ1d2RENld2cWtDdmhodE5Rb3ZIbVJ2YVhsNWtEbXpVc3lTSGtfVUJ6fkdPNGs5TFpOY0V3WXZW');
+W[c]({"i":{"c":"ProductCategoryInput_v2","n":"ProductCategoryInput_v2","w":8},"a":{"just_show":"","default_value":"","label_all_values":"Seleccionar","label_input":"Detalle","label_error":"Por favor, seleccione un detalle","label_set_button":"Motivos de Consultsa\/Reclamos","label_required":"Seleccione un valor","label_not_permissioned":"No tiene permiso para seleccionar %s. Seleccione un elemento diferente.","label_selection_not_valid":"%s no es una selecci\u00f3n v\u00e1lida","label_confirm_button":"Aceptar","label_cancel_button":"Cancelar","label_nothing_selected":"Seleccionar","label_accessible_interface":"Este bot\u00f3n no funciona con lectores de pantalla. Utilice el enlace anterior en su lugar.","label_screen_reader_selected":"Valores seleccionados:","label_screen_reader_accessible_option":"Los usuarios del lector de pantalla pulsan Intro para seleccionar %s.","verify_permissions":"None","name":"Incident.Category","label_level":"Nivel","required_lvl":3,"max_lvl":6,"linking_off":false,"set_button":false,"allow_external_login_updates":false,"show_confirm_button_in_dialog":false,"hint":"","always_show_hint":false,"hide_on_load":false},"j":{"type":"ServiceCategory","name":"Incident.Category","custom":false,"constraints":[],"table":"Incident","data_type":"Category","permissionedProdcatIds":[],"permissionedProdcatList":[],"readableProdcatIdsWithChildren":[],"readableProdcatIds":[],"linkingOn":1,"hm_type":14,"link_map":[[{"id":0,"label":"Seleccionar"},{"id":230,"label":"Despacho producto equivocado","hasChildren":false,"selected":false},{"id":231,"label":"Despacho producto fuera de plazo","hasChildren":false,"selected":false},{"id":237,"label":"Despacho producto mala condici\u00f3n","hasChildren":false,"selected":false},{"id":238,"label":"Producto No Funciona","hasChildren":false,"selected":false},{"id":276,"label":"Solicitud de Retracto","hasChildren":false,"selected":false},{"id":245,"label":"Cobro err\u00f3neo en Tarjetas y\/o  D\u00f3lares Premio","hasChildren":false,"selected":false},{"id":246,"label":"Compra Duplicada","hasChildren":false,"selected":false},{"id":257,"label":"C\u00f3digo pendiente","hasChildren":false,"selected":false},{"id":258,"label":"C\u00f3digo utilizado","hasChildren":false,"selected":false},{"id":259,"label":"C\u00f3digo sin saldo","hasChildren":false,"selected":false},{"id":260,"label":"C\u00f3digo err\u00f3neo","hasChildren":false,"selected":false},{"id":263,"label":"Ventas","hasChildren":false,"selected":false},{"id":264,"label":"Boleta o Factura","hasChildren":false,"selected":false},{"id":265,"label":"Despacho","hasChildren":false,"selected":false},{"id":266,"label":"Programa Travel","hasChildren":false,"selected":false},{"id":267,"label":"Garant\u00eda","hasChildren":false,"selected":false},{"id":268,"label":"Giftcard","hasChildren":false,"selected":false},{"id":269,"label":"Entel Visa","hasChildren":false,"selected":false},{"id":270,"label":"Beneficio Mesa Gourmet","hasChildren":false,"selected":false},{"id":271,"label":"C\u00f3digos Cine","hasChildren":false,"selected":false},{"id":272,"label":"Beneficio Travel Box","hasChildren":false,"selected":false}]],"hierDataNone":[[{"id":0,"label":"Seleccionar"},{"id":230,"label":"Despacho producto equivocado","hasChildren":false,"selected":false},{"id":231,"label":"Despacho producto fuera de plazo","hasChildren":false,"selected":false},{"id":237,"label":"Despacho producto mala condici\u00f3n","hasChildren":false,"selected":false},{"id":238,"label":"Producto No Funciona","hasChildren":false,"selected":false},{"id":276,"label":"Solicitud de Retracto","hasChildren":false,"selected":false},{"id":245,"label":"Cobro err\u00f3neo en Tarjetas y\/o  D\u00f3lares Premio","hasChildren":false,"selected":false},{"id":246,"label":"Compra Duplicada","hasChildren":false,"selected":false},{"id":257,"label":"C\u00f3digo pendiente","hasChildren":false,"selected":false},{"id":258,"label":"C\u00f3digo utilizado","hasChildren":false,"selected":false},{"id":259,"label":"C\u00f3digo sin saldo","hasChildren":false,"selected":false},{"id":260,"label":"C\u00f3digo err\u00f3neo","hasChildren":false,"selected":false},{"id":263,"label":"Ventas","hasChildren":false,"selected":false},{"id":264,"label":"Boleta o Factura","hasChildren":false,"selected":false},{"id":265,"label":"Despacho","hasChildren":false,"selected":false},{"id":266,"label":"Programa Travel","hasChildren":false,"selected":false},{"id":267,"label":"Garant\u00eda","hasChildren":false,"selected":false},{"id":268,"label":"Giftcard","hasChildren":false,"selected":false},{"id":269,"label":"Entel Visa","hasChildren":false,"selected":false},{"id":270,"label":"Beneficio Mesa Gourmet","hasChildren":false,"selected":false},{"id":271,"label":"C\u00f3digos Cine","hasChildren":false,"selected":false},{"id":272,"label":"Beneficio Travel Box","hasChildren":false,"selected":false}]],"hierData":[[{"id":0,"label":"Seleccionar"},{"id":230,"label":"Despacho producto equivocado","hasChildren":false,"selected":false},{"id":231,"label":"Despacho producto fuera de plazo","hasChildren":false,"selected":false},{"id":237,"label":"Despacho producto mala condici\u00f3n","hasChildren":false,"selected":false},{"id":238,"label":"Producto No Funciona","hasChildren":false,"selected":false},{"id":276,"label":"Solicitud de Retracto","hasChildren":false,"selected":false},{"id":245,"label":"Cobro err\u00f3neo en Tarjetas y\/o  D\u00f3lares Premio","hasChildren":false,"selected":false},{"id":246,"label":"Compra Duplicada","hasChildren":false,"selected":false},{"id":257,"label":"C\u00f3digo pendiente","hasChildren":false,"selected":false},{"id":258,"label":"C\u00f3digo utilizado","hasChildren":false,"selected":false},{"id":259,"label":"C\u00f3digo sin saldo","hasChildren":false,"selected":false},{"id":260,"label":"C\u00f3digo err\u00f3neo","hasChildren":false,"selected":false},{"id":263,"label":"Ventas","hasChildren":false,"selected":false},{"id":264,"label":"Boleta o Factura","hasChildren":false,"selected":false},{"id":265,"label":"Despacho","hasChildren":false,"selected":false},{"id":266,"label":"Programa Travel","hasChildren":false,"selected":false},{"id":267,"label":"Garant\u00eda","hasChildren":false,"selected":false},{"id":268,"label":"Giftcard","hasChildren":false,"selected":false},{"id":269,"label":"Entel Visa","hasChildren":false,"selected":false},{"id":270,"label":"Beneficio Mesa Gourmet","hasChildren":false,"selected":false},{"id":271,"label":"C\u00f3digos Cine","hasChildren":false,"selected":false},{"id":272,"label":"Beneficio Travel Box","hasChildren":false,"selected":false}]]}},'W10=','fUHR7cHlvDeX35tivdOAzz1MfuBepjA0oTNhTOjSiGG9fnqRKbMh5LVPTcC6tMqCQvG_VALNlaRZ_9DjY~MxrpG0sF6O9E~h~UyegJ8S6SXOvagf06xMskAiEe~pQY~R~hH~lPG5yRxXY!',1690836387,'ProductCategoryInput_v2_8','custom/input/ProductCategoryInput_v2','Custom.Widgets.input.ProductCategoryInput_v2','8','ZlU4S0t4dmhqU0xoYkRYZ1lVQndLNGluN3ZhV2dUZHlMTmszTHhkbDNBVWtaUEZRczBqbFVyVzZsek5Na2psSXp_UjNHWHBOQXUyMVpDWWpOVWh_TUNFNjF2ZnVLakJzMHpqY3dVZExaZXMxU0JwT3B5OERySX5vT2MyNWM0T1I0NW9FbTR5eFB5WTNYa0ZWME9wSlhUOE5uTUxPflk5U2tG');
+W[c]({"i":{"c":"Input_v2","n":"Input_v2","w":9},"a":{"placeholder":"Escribe un mensaje","label_input":"Mensaje","label_error":"","label_required":"%s es necesario","name":"Incident.Threads","required":true,"hint":"","always_show_hint":false,"tooltip_accessibility_message":"Pulse la flecha derecha y despu\u00e9s la flecha abajo para acceder a la pista","initial_focus":false,"validate_on_blur":false,"always_show_mask":true,"default_value":"","allow_external_login_updates":false,"hide_hint":false,"existing_contact_check_ajax":"\/ci\/ajax\/widget\/custom\/input\/Input_v2\/existingContactCheck","require_validation":false,"maximum_length":0,"minimum_length":0,"maximum_value":null,"minimum_value":null,"label_validation_incorrect":"Fallo de validaci\u00f3n del campo '%s'","label_validation":"Volver a introducir un valor para el campo '%s'","textarea":false,"hide_on_load":false,"read_only":false},"j":{"type":"Thread","name":"Incident.Threads","custom":false,"constraints":{"minLength":1,"maxLength":1048576,"maxBytes":1048576},"readOnly":false,"contactToken":"ZlU2bmRzdk9DbTJNZ1ZYS2dRQ1I3aXZseFo5T1V1WjJORGwxSHBmfkpSZHFQYlQwYld3ZjNoQmxmcjFocUNyMGFwXzltdzJPRDhab3ZNcUMzdFpXeGxXMmRlR244TWNYM3FwRE9ad05ITU1CZEtYdzE3Wk0wUTJuNmlGb1p6T2Exem1jS09TcVNZWndnY2ZzTkV2ZGVISkpWUVF_bVFWT1Fx"}},'eyJleHRlbmRzIjpbInN0YW5kYXJkXC9pbnB1dFwvVGV4dElucHV0Il0sIm5vbkRlZmF1bHRBdHRyVmFsdWVzIjp7ImxhYmVsX2lucHV0IjoiTWVuc2FqZSIsIm5hbWUiOiJJbmNpZGVudC5UaHJlYWRzIiwicGxhY2Vob2xkZXIiOiJFc2NyaWJlIHVuIG1lbnNhamUiLCJyZXF1aXJlZCI6InRydWUifSwiZXhlbXB0X2Zyb21fbG9naW5fcmVxdWlyZW1lbnQiOnsiZXhpc3RpbmdDb250YWN0Q2hlY2siOnRydWV9fQ==','fUivPPADQ2FHG4zB6IYAdkCf6BvqwyttviZfxGcxwHRTTPrdUlPMzhD8w8rgOmbDYpevLpj3X110toEgoew2Fbt0P5Xhb00V3eBi_MW6YhJ_ZNBFWr5UGAU8qLA3JJYwvp~DD554U_SGE!',1690836387,'Input_v2_9','custom/input/Input_v2','Custom.Widgets.input.Input_v2','9','ZlVTU2tjNUlQN2l5NEw5SWNVMWJGMnZrX35tUllYdFd5UWxpQ21PU3J4cENjY0lZMGNkdmJLcmpibmRYODVWOGFJMzhZU195bDNkNzI2ODRuM2h_d1huajk4b0xfbTI1WjBpQ3ZHaWFrRmptamliR3JNeU1uM013eGNzbnVjRH5FU3ZpZHEzbGg0QzJ4bH5ZQXJvbDhreEpCTU50S0ZhWjl4');
+W[c]({"i":{"c":"FileAttachmentUpload","n":"FileAttachmentUpload","w":10},"a":{"name":"Incident.FileAttachments","label_input":"Anexar documentos","label_error":"","label_remove":"Eliminar","max_attachments":100,"label_max_attachment_limit":"Ha alcanzado el l\u00edmite de archivos que se pueden cargar. Para agregar otro archivo, primero debe eliminar uno de los archivos anteriores.","label_generic_error":"El archivo no se pudo cargar correctamente. El tama\u00f1o del archivo es demasiado grande o la ruta de acceso al archivo es incorrecta.","label_still_uploading_error":"Espere hasta que haya finalizado la carga del anexo antes de enviar el formulario","loading_icon_path":"images\/indicator.gif","min_required_attachments":0,"label_min_required":"%s necesita %s archivos","valid_file_extensions":"png,jpg,txt,gif,pdf,docx,bmp,doc,csv,xlsx,xls","label_invalid_extension":"Solo se permiten los siguientes tipos de archivo: %s","display_thumbnail":true,"max_thumbnail_height":100,"hide_on_load":false},"j":{"type":"FileAttachmentIncident","name":"Incident.FileAttachments","custom":false,"constraints":"ZlVpWHVsZnVvcG1XbFJZa1BYVkFOYXlxSmhxMmRyR1Ntb0ZFcTJXeFFwRElTSkc2UzhiNkd4cjZmZFBiYXhxUW5sT05IfkN0MEN3MHdlcEVMRHVteklEVExEVDhFfnNBcnBZeTAyY3BwYVIwYzRsc2oyMDNWRGxxWEszTW8zQXI4UFVBVzk4S2R6aFVROWlHb1ZNTmdQb2Q2Y0swQ1p1Zm5VVVNMUldQMzc4Ym40ZEdLSWdRQkN4ZXNMVUJQb0JEM2phVVN_bTRsb3V3cG54SUtwfkVsVDU1aHVnbkVaNVMycQ!!","id":"FileAttachmentUpload_10","path":"standard\/input\/FileAttachmentUpload","max_attach_hash":"d3f13f4a57d81dbc9a27383a5a9b4644a68018b0a2b6bab4ea362fcdef7463d5","attachmentCount":0}},'W10=','fUmU9txj3dQq44hytq3KUbDZQPJ8zFZ_BZei6sEr1bG8OkiVVNMRU18efLw6AwlqqQL7p~XrYbKN3c2bppdn7DjvlP4AnWBaiZRLN4bQnrpFLuSw0sq2KN8Itd4PD_wqf_nokFsKNlWc4!',1690836387,'FileAttachmentUpload_10','standard/input/FileAttachmentUpload','RightNow.Widgets.FileAttachmentUpload','10','ZlVZSEFVdFV2NVBUMlRmV05jQkhvZjJRcjFEbENXVmVUT2hmMUQ3dTA3Yl9rSFVtclBVMUhQTjRZWHVhRUk1UGtvNXdOOW9_YzlRR2xxNHQ1Z2ozQld1NEtnczRNak5qYWY1TVgwaXRxaUV1bXJwZllkMGtENDJvSU1aN0JMSVlTcW5ZaGVueFJMQ2VLcldMMTMyaWVJclp4cllwd3hJU0NO');
+W[c]({"i":{"c":"FormSubmit","n":"FormSubmit","w":11},"a":{"label_button":"Enviar Solicitud","label_confirm_dialog":"","label_submitting_message":"Enviando...","on_success_url":"\/app\/ask_confirm","label_on_success_banner":"","error_location":"rn_ErrorLocation","add_params_to_url":"","challenge_location":"captchaArea","challenge_required":true,"timeout":0,"flash_message":"","unsaved_data_dialog":false},"j":{"f_tok":"ZlVFeExCT25MVW82RGZLeXdTR3VGOGRhTFhVYXNhdUx4UDl6SWl3dVZJMlM2VHNySEFadjM2VUY5S0RrTXFXbWx0NEVJbkUzaUpRSHF2SEZPT3FqSTJfeH5TdGtsdFNoZE9ldnhwcTZGQTVsbGxOQTEzQzVKYmN5UEVQS2kxZmgzQzh1eXcxbHE0X3ZQUmtRXzhXTVVRX1RRbkRGTVJ_b196","formExpiration":1500000,"challengeProvider":"\nvar defaultChallengeOptions={scriptUrl:\"\/\/www.google.com\/recaptcha\/api.js?onload=onApiLoadCallback&render=explicit&hl=es-ES\",publicKey:\"6LcHf0wUAAAAAFxRHKequHkHUGyUWA5dy24ZaB5s\",lang:\"es-ES\",custom_translations:{visual_challenge:\"Obtener una verificaci\u00f3n visual\",audio_challenge:\"Obtener una verificaci\u00f3n de audio\",refresh_btn:\"Obtener una nueva verificaci\u00f3n\",instructions_visual:\"Escriba las dos palabras:\",instructions_audio:\"Introduzca lo que escuche:\",help_btn:\"Ayuda\",play_again:\"Volver a reproducir sonido\",cant_hear_this:\"Descargar sonido como MP3\",incorrect_try_again:\"No es correcto. Vuelva a intentarlo.\"},cant_see_image:\"Si no puede ver la imagen, utilice la opci\u00f3n de audio.\"};(function(){var _loadScript=function(url,context,callback){var script=document.createElement(\"script\");script.type=\"text\/javascript\";onApiLoadCallback=function(){callback.call(context);};script.src=url;document.body.appendChild(script);},_augmentObject=function(target,source){for(var i in source){if(source.hasOwnProperty(i)){target[i]=source[i];}}},_captchaWidgetID;return{create:function(targetDivID,customOptions,callback,dialog){_loadScript(defaultChallengeOptions.scriptUrl,this,function(){var customTranslations=false;if(defaultChallengeOptions&&customOptions){customTranslations=customOptions.custom_translations;if(defaultChallengeOptions.custom_translations&&customTranslations){_augmentObject(defaultChallengeOptions.custom_translations,customTranslations);customOptions.custom_translations=null;}\n_augmentObject(defaultChallengeOptions,customOptions);}\ndefaultChallengeOptions.callback=function(){var instructionsSpan=document.getElementById(\"recaptcha_instructions_image\");if(instructionsSpan)\ninstructionsSpan.innerHTML+='<span style=\"position:absolute; height:1px; left:-10000px; overflow:hidden; top:auto; width:1px;\">'+defaultChallengeOptions.cant_see_image+'<\/span>';var recaptchaImage=document.getElementById('recaptcha_image');if(recaptchaImage&&(recaptchaImage=recaptchaImage.getElementsByTagName(\"IMG\"))[0]){recaptchaImage[0].setAttribute('alt','');}\nif(callback)\ncallback.apply(this,arguments);};var captchaResponseCreated=function(response){if(dialog){dialog.enableButtons();Y.Lang.later(400,dialog.getButtons().item(0),'focus');}};var captchaResponseExpired=function(){if(dialog){dialog.disableButtons();}};_captchaWidgetID=grecaptcha.render(targetDivID,{'sitekey':defaultChallengeOptions.publicKey,'callback':captchaResponseCreated,'expired-callback':captchaResponseExpired});if(callback){callback.apply(this,arguments);}\nif(customOptions&&customTranslations){customOptions.custom_translations=customTranslations;}});},getInputs:function(targetDivID){var parentDiv=document.getElementById(targetDivID),inputs={};if(parentDiv){var response=grecaptcha.getResponse(_captchaWidgetID),opaque='reCaptcha2';if(response){inputs.abuse_challenge_response=response.replace(\/^\\s+|\\s+$\/g,\"\");}\nif(opaque){inputs.abuse_challenge_opaque=opaque;}}\nreturn inputs;},focus:function(targetDivID){try{document.getElementById(targetDivID).focus();}\ncatch(ex){}},destroy:function(){try{grecaptcha.reset(_captchaWidgetID);}\ncatch(ex){}}};})();"}},'W10=','fUQ~ZAac1F_~45GQwDnIrW~~3lZCMjaXCx7TcUEpK~ytarp9e5gGHcdUvbfJdQXKopfotUaQdbG9j0QPQ7R84hTrs0OEGWgEgFH1S4uSvAQ3hC0QDrKwwX3hHTzXrpDSXRjR1AMKrVje8!',1690836387,'FormSubmit_11','standard/input/FormSubmit','RightNow.Widgets.FormSubmit','11','ZlV2NF94MW1qTmlaYVRpYnJsY0Q0Y3dsbW9lTFpjYTJXNDY0Q3doc2ExYlBoa29rNDRBcEszTzdyMjltb3FiUm8yYm05UzFhS3JMZXl5NTNxbEFVeHc4dFY1aEZxcWRzZzczd3hIUjFJNEhuN2FzQUhVdklpflBmM0xPU1h0a0VQTUdhajlBbnQ0UEJ3Un55OHlZZmxlQlZVX0VBXzdoTXE1');
+})});
+/* ]]> */
+</script>
+<iframe src="javascript:false" title="Action Capture" role="presentation" style="position: absolute; width: 0px; height: 0px; border: 0px;" src="./sin título_files/saved_resource(2).html"></iframe><script type="text/javascript">
+var _rnq=_rnq||[];_rnq.push({"s":"YEOFuxdq","uh":"bd486937","uc":"dutyfree--tst1.custhelp.com\/app\/ask_v2","b":"ca246619","i":"dutyfree__tst1:dutyfree","f":"rnw","p":"Customer Portal","v":"22.11.0.1-b54-sp4","th":"www.rnengage.com"});
+(function(e){var b,d,a=document.createElement("iframe"),c=document.getElementsByTagName("script");a.src="javascript:false";a.title="Action Capture";a.role="presentation";(a.frameElement||a).style.cssText="position:absolute;width:0;height:0;border:0";c=c[c.length-1];c.parentNode.insertBefore(a,c);try{b=a.contentWindow.document}catch(f){d=document.domain,a.src="javascript:var d=document.open();d.domain='"+d+"';void(0);",b=a.contentWindow.document}b.open()._l=function(){for(var a;e.length;)a=this.createElement("script"),
+d&&(this.domain=d),a.src=e.pop(),this.body.appendChild(a)};b.write('<head><title>Action Capture</title></head><body onload="document._l();">');b.close()})(["https://www.rnengage.com/api/e/ca246619/e.js","//www.rnengage.com/api/1/javascript/acs.js"]);
+</script><script src="./sin título_files/Markdown.Converter.min.js.download"></script>
+
+
+<script type="text/javascript" src="./sin título_files/api.js.download"></script><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="El reCAPTCHA caduca dentro de dos minutos" src="./sin título_files/bframe.html" name="c-b8ytfimetmpj" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div></body></html>
